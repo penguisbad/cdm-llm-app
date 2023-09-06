@@ -1,11 +1,14 @@
 {
   "name": "cdm-llm-app",
   "version": "1.0.0",
-  "description": "An app that uses AI to categorize security vendors on the Cyber Defense Matrix",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "mocha"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
 }
