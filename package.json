@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@pinecone-database/pinecone": "^1.0.0",
     "mocha": "^10.2.0"
   }
 }
